@@ -1,9 +1,7 @@
-# React + Vite
+# e-shop project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-#livedemo:https://64fb847e5cf4cf5dc518dc30--velvety-lokum-50878a.netlify.app/
+# this is an e-shop project for chlothes using React js.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* you can visit the  <a href="https://animated-paprenjak-04078b.netlify.app/">live demo preview here!🫵</a>.
+* thanks for reading❤️.
